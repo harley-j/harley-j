@@ -27,6 +27,7 @@ I'm passionate about open source software and the Linux kernel.
 I also enjoy reverse engineering and music.
 
 🚀 Currently working on [TinaCMS](https://tina.io/) and [TinaCloud](https://app.tina.io/)
+<br>
 
 </td>
 </tr>
