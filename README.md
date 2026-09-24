@@ -33,7 +33,7 @@ I also enjoy reverse engineering and music.
 </tr>
 </table>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,dotnet,php,laravel,linux,postgres,docker,redis&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,dotnet,php,laravel,linux,postgres,docker,redis,azure,aws,angular,react&theme=dark)](https://skillicons.dev)
 
 # 🔥 Top Projects
 - [GooberBlox](https://gooberblox.com) - Massive Multiplayer RPG
